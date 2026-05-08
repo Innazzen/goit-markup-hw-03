@@ -1,0 +1,29 @@
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-title2 {
+  color: #2e2f42;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.team-title3 {
+  text-align: center;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.team-features-text {
+  text-align: center;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+}
+
+.li-item {
+  background-color: #ffffff;
+}

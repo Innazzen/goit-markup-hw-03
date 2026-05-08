@@ -1,0 +1,39 @@
+.header {
+  background-color: #ffffff;
+}
+.nav-link {
+  color: #2e2f42;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  text-decoration: none;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+.contacts-link {
+  color: #434455;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 16px;
+  font-style: normal;
+  text-decoration: none;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.contacts-link:hover,
+.contacts-link:focus,
+.nav-link:hover,
+.nav-link:focus {
+  color: #404bbf;
+}
+.header .logo {
+  font-family: "Raleway";
+  font-weight: 700;
+  font-size: 18px;
+  color: #2e2f42;
+  text-transform: uppercase;
+  text-decoration: none;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
+}
