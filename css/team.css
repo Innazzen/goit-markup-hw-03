@@ -27,7 +27,8 @@
 .li-item {
   background-color: #ffffff;
 }
-.ul-item {
+
+.ul-item-team {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
