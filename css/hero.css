@@ -10,6 +10,11 @@
 .hero-container {
   width: 1158px;
   height: 224px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .hero-title {
@@ -20,6 +25,9 @@
   text-align: center;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  margin: 0;
+  width: 496px;
+  height: 120px;
 }
 .button {
   background-color: #4d5ae5;
@@ -30,6 +38,8 @@
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
+  padding: 16px 32px;
+  border-radius: 4px;
 }
 
 .button:hover,
