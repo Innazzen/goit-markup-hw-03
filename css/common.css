@@ -30,7 +30,7 @@ ul {
   text-align: center;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  margin-bottom: 72px;
+
 }
 
 .title3 {
@@ -71,4 +71,9 @@ ul {
   clip-path: inset(100%);
   clip: rect(0 0 0 0);
   overflow: hidden;
+}
+
+h1, h2, h3, p, ul {
+  margin: 0;
+  padding: 0;
 }

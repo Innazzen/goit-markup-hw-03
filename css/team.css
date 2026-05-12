@@ -6,6 +6,7 @@
 
 .team-container {
   height: 492px;
+  padding: 0;
 }
 
 .team-title2 {
@@ -32,12 +33,17 @@
 
 .li-item {
   background-color: #ffffff;
+  height: 380px;
 }
 
 .ul-item-team {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
-  padding: 0;
+  /* padding: 0; */
   margin: 0;
+  padding-top: 112px;
+  padding-bottom: 0;
+  padding-left: 15px;
+  padding-right: 15px;
 }
