@@ -17,13 +17,11 @@
 
 .portfolio-card-content {
   padding: 32px 16px;
-}
-
-.ul-item-portfolio img {
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
   border-bottom: 1px solid #e7e9fc;
 }
+
 .portfolio img {
   display: block;
 }

@@ -1,9 +1,7 @@
 .hero {
   background-color: #2e2f42;
-  width: 1440px;
+
   padding: 188px 141px;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .hero-container {
