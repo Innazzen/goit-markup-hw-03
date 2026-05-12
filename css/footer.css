@@ -1,7 +1,5 @@
 .footer {
   background-color: #2e2f42;
-  width: 1440px;
-  height: 312px;
   padding: 100px;
   padding-left: 156px;
   padding-right: 1020px;
@@ -23,5 +21,5 @@
 .footer .features-text {
   color: #f4f4fd;
   width: 264px;
-  height: 72px;
+  margin-top: 16px;
 }
