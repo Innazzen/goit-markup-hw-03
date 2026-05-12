@@ -1,18 +1,17 @@
 .hero {
   background-color: #2e2f42;
   width: 1440px;
-  height: 600px;
   padding: 188px 141px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .hero-container {
-  width: 1158px;
-  height: 224px;
-
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
+  padding: 0;
 }
 
 .hero-title {
@@ -25,7 +24,7 @@
   letter-spacing: 0.02em;
   margin: 0;
   width: 496px;
-  height: 120px;
+  margin: 0 0 48px 0;
 }
 .button {
   background-color: #4d5ae5;
@@ -38,6 +37,7 @@
   cursor: pointer;
   padding: 16px 32px;
   border-radius: 4px;
+  border: none;
 }
 
 .button:hover,
